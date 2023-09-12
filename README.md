@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Python
 - 💞️ I'm looking to learn C++ and collaborate on Yuzu - Nintendo Switch emulator
 - 📫 I'm living in da house of cedar and pine
-- 🐇 I suppose, that this readme file is boring. That's why I must add these mad rabbits in the grass right now 🌿🐇🌿🐇🌿🐇🌿
+- 🐇 I suppose this readme file is boring. That's why I must add these mad rabbits in the grass right now 🌿🐇🌿🐇🌿🐇🌿
 - 👽 UPD. All content was thefted by grey aliens
 <!---
 Immaculated/Immaculated is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
